@@ -1,0 +1,252 @@
+# Generic SaaS Website Templates
+
+These templates are derived from analysis of modern SaaS website design patterns and can be adapted for any SaaS product. Each section includes structural guidance, content recommendations, and design considerations.
+
+## Homepage Template
+
+### Hero Section
+- **Headline**: Clear, benefit-focused statement (e.g., "[Product Category] made simple for [target audience]")
+- **Subheadline**: 1-2 sentence explanation of your core value proposition
+- **Primary CTA**: High-contrast button with action text (e.g., "Get started", "Start free trial")
+- **Secondary CTA**: Lower-emphasis option (e.g., "See how it works", "Learn more")
+- **Visual Element**: Product screenshot, illustration, or relevant imagery
+- **Social Proof**: Logos of notable customers or industry recognition
+
+### Features Overview
+- **Section Headline**: Clear benefit statement (e.g., "Everything you need to...")
+- **3-4 Key Features**: Icon + short headline + brief description for each
+- **Supporting Visual**: Screenshot or illustration showing the product in action
+- **Optional CTA**: Button to learn more about features
+
+### How It Works / Product Demo
+- **Visual Showcase**: Screenshot carousel, embedded video, or interactive demo
+- **Step-by-Step Breakdown**: Numbered steps explaining the user workflow
+- **Caption Text**: Brief explanations highlighting key functionality
+- **Optional CTA**: "See more features" or "Request a demo"
+
+### Testimonials / Social Proof
+- **Customer Quotes**: 2-3 brief testimonials with customer name, title, and company
+- **Customer Logos**: Row of recognizable client/customer logos
+- **Metrics**: Key success metrics or user statistics if available
+- **Optional Case Study Link**: "Read the full story" for detailed success stories
+
+### Pricing Overview
+- **Simple Pricing Tiers**: 2-4 pricing options with clear differentiation
+- **Feature Comparison**: Bullet points highlighting what's included in each tier
+- **Highlighted Recommendation**: Visual emphasis on recommended plan
+- **CTA for Each Tier**: Clear action button for each pricing option
+- **FAQ Link**: Link to pricing FAQ for detailed questions
+
+### Final CTA Section
+- **Action-Oriented Headline**: Clear benefit statement encouraging sign-up
+- **Supporting Text**: Address common objections (e.g., "No credit card required")
+- **High-Contrast CTA Button**: Repeat primary call-to-action
+- **Optional Incentive**: Free trial period, money-back guarantee, or special offer
+
+### Footer
+- **Navigation Links**: Organized by category (Product, Company, Support, Legal)
+- **Contact Information**: Email, support links
+- **Social Media Links**: Icons linking to company social profiles
+- **Copyright Information**: Current year and company name
+- **Legal Links**: Privacy policy, terms of service, cookie policy
+
+## Features Page Template
+
+### Features Hero
+- **Headline**: Clear statement of overall product value
+- **Subheadline**: Brief explanation expanding on the headline
+- **Optional Visual**: Illustration or screenshot representing the product ecosystem
+
+### Feature Categories
+- **Category Navigation**: Tabs or menu to navigate between feature groups
+- **Feature List Structure**: For each feature category:
+  - Feature name (bold/heading)
+  - 2-3 sentence description
+  - Supporting visual (screenshot, illustration)
+  - Optional "Learn more" link
+
+### Detailed Feature Sections
+For each major feature:
+- **Feature Name**: Clear, benefit-focused heading
+- **Feature Description**: 2-3 paragraphs explaining functionality and benefits
+- **Visual Element**: Screenshot, GIF, or video showing the feature in action
+- **Key Benefits**: 3-4 bullet points highlighting specific advantages
+- **Optional CTA**: Link to related documentation or use case
+
+### Integration Section
+- **Partner Logos**: Visual grid of integration partners
+- **API/Developer Reference**: Link to technical documentation
+- **Integration Benefits**: Brief explanation of connectivity advantages
+
+### Comparison Table (Optional)
+- **Competitive Comparison**: Feature-by-feature comparison with alternatives
+- **Highlight Advantages**: Visual emphasis on your product's strengths
+
+### Feature Request
+- **User Input Invitation**: Form or link to submit feature requests
+- **Roadmap Reference**: Optional link to public roadmap
+
+## Pricing Page Template
+
+### Pricing Hero
+- **Headline**: Clear, straightforward statement (e.g., "Simple pricing for everyone")
+- **Subheadline**: Reinforce value proposition and pricing philosophy
+- **Optional Toggle**: Monthly/annual billing switch with savings callout
+
+### Pricing Tiers
+- **Tier Structure**:
+  - Tier name (Free, Basic, Professional, Enterprise)
+  - Monthly/annual price
+  - User limits or key constraints
+  - Primary differentiating features (5-7 bullet points)
+  - Appropriate CTA button for each tier
+- **Highlight Recommended**: Visual emphasis on recommended plan
+- **Enterprise Option**: Custom pricing with contact option
+
+### Feature Comparison Table
+- **Detailed Comparison**: Full breakdown of features across pricing tiers
+- **Category Organization**: Group related features by category
+- **Visual Indicators**: Checkmarks, X marks, or text to show availability
+
+### FAQ Section
+- **Common Questions**: 6-10 frequently asked pricing questions
+- **Concise Answers**: Clear, direct responses to each question
+- **Contact Link**: Option to contact sales for additional questions
+
+### Custom Pricing
+- **Contact Sales Section**: For custom enterprise needs
+- **Form or Email Link**: Simple way to request custom quote
+- **Enterprise Benefits**: Brief highlights of enterprise-specific features
+
+## About Us Page Template
+
+### Company Story
+- **Founding Story**: Brief narrative about company origins
+- **Mission Statement**: Clear articulation of company purpose
+- **Vision**: Forward-looking statement about industry impact
+- **Values**: 3-5 core company values with brief explanations
+
+### Team Section
+- **Leadership Profiles**: Photos and brief bios of key team members
+- **Team Culture**: Insight into company culture and work environment
+- **Optional Team Photo**: Group photo or office environment image
+
+### Company Timeline
+- **Key Milestones**: Visual timeline of company growth and achievements
+- **Product Evolution**: Highlights of major product developments
+
+### Investors/Partners (If Applicable)
+- **Investor Logos**: Visual display of funding partners
+- **Board Members**: Brief profiles of board members or advisors
+
+### Careers Section
+- **Culture Benefits**: Highlight of working at the company
+- **Open Positions**: Link to careers page or job listings
+- **Growth Narrative**: Brief statement about company trajectory
+
+## Blog/Resources Template
+
+### Blog Header
+- **Category Navigation**: Filter options for content types
+- **Search Functionality**: Search box for content discovery
+- **Featured Content**: Highlighted recent or popular posts
+
+### Content Card Structure
+- **Featured Image**: Visual for each content piece
+- **Publish Date**: Clear timestamp
+- **Author Information**: Name and optional title/photo
+- **Title**: Clear, benefit-focused heading
+- **Excerpt**: Brief preview of content (2-3 sentences)
+- **Read Time**: Estimated reading duration
+- **Tags/Categories**: Topic classification
+
+### Content Organization
+- **Latest Posts**: Chronological listing of recent content
+- **Popular Posts**: Optional section for high-performing content
+- **Topic Collections**: Grouped content by subject area
+
+### Newsletter Signup
+- **Value Proposition**: Brief statement of newsletter benefits
+- **Simple Form**: Email field and subscribe button
+- **Frequency Indication**: How often subscribers will receive emails
+
+## Documentation Template
+
+### Documentation Header
+- **Search Box**: Prominent search functionality
+- **Version Selector**: Dropdown for different product versions
+- **Language Selector**: Option to change documentation language
+
+### Navigation Structure
+- **Category Sidebar**: Hierarchical organization of documentation
+- **Getting Started Section**: Prominently featured onboarding guides
+- **API Reference**: Technical documentation section
+- **Tutorials/Guides**: Step-by-step instructions for common tasks
+
+### Document Structure
+- **Clear Headings**: Hierarchical organization (H1, H2, H3)
+- **Code Samples**: Formatted code blocks with syntax highlighting
+- **Visual Aids**: Screenshots, diagrams, or videos where helpful
+- **Next/Previous Navigation**: Links to related documentation
+
+### Interactive Elements
+- **Copy Code Buttons**: One-click code copying
+- **Try It Live**: Interactive code examples where applicable
+- **Feedback Mechanism**: Simple way to report issues or suggest improvements
+
+## Support Page Template
+
+### Support Options
+- **Self-Help Resources**: Links to knowledge base, documentation, FAQs
+- **Community Forums**: Link to user community or discussion boards
+- **Contact Options**: Email, chat, phone support with availability details
+- **Support Tiers**: Clarification of support levels by plan
+
+### Help Center Search
+- **Prominent Search Box**: Easy way to find specific help topics
+- **Popular Topics**: Quick links to commonly referenced issues
+- **Category Navigation**: Browse by topic area
+
+### FAQ Section
+- **Common Questions**: Organized by category
+- **Expandable Answers**: Collapsible sections for clean layout
+- **Related Articles**: Links to detailed documentation
+
+## Contact/Demo Page Template
+
+### Contact Options
+- **Contact Form**: Name, email, company, message fields
+- **Direct Contact**: Email, phone, physical address if applicable
+- **Support Hours**: When to expect responses
+- **Department Routing**: Options to direct inquiry to appropriate team
+
+### Demo Request
+- **Value Proposition**: Brief statement of demo benefits
+- **Form Fields**: Name, email, company size, role, specific interests
+- **Availability Selector**: Calendar integration or time preference fields
+- **Expectation Setting**: What happens after form submission
+
+### Map/Locations (If Applicable)
+- **Office Locations**: Visual map of physical locations
+- **Address Information**: Detailed contact for each location
+
+## Legal Pages Template
+
+### Privacy Policy
+- **Data Collection**: Clear explanation of data collected
+- **Usage Policies**: How data is used and protected
+- **User Rights**: Options for data access, deletion, etc.
+- **Cookie Policy**: Information about tracking technologies
+- **Updates Process**: How changes to policy are communicated
+
+### Terms of Service
+- **Service Description**: Clear definition of services provided
+- **User Obligations**: Responsibilities of service users
+- **Limitation of Liability**: Legal protections and disclaimers
+- **Termination Conditions**: Circumstances for account termination
+- **Dispute Resolution**: Process for handling disagreements
+
+### GDPR/Compliance
+- **Compliance Statements**: Adherence to relevant regulations
+- **Data Processing Agreements**: Information for business customers
+- **Subject Access Requests**: Process for data requests
